@@ -1,0 +1,14 @@
+[
+    { "id": 0, "title": "Pretty Princess", "description": "Multiple diamond setting with extravegant center diamond. Beautiful hand crafted leather collar", "img": "/img/collars/collar0.jpg", "price": 50000
+    },
+    { "id": 1, "title": "River Runs", "description": "Fine hand crafted leather that shows not only your dog is masculine but also refined. Custom engraving available.", "img": "/img/collars/collar1.jpg", "price": 250
+    },
+    { "id": 2, "title": "Louis Vuitton", "description": "Its Louis Vuitton need we say more", "img": "/img/collars/collar2.jpg", "price": 975.00
+    },
+    {"id": 3, "title": "I find You Found", "description": "For the rugged dog that likes long walks through the forest. The back rope keeps it utilitarian but the hand crafted leather elevates it.", "img": "/img/collars/collar3.jpg", "price": 175
+    },
+    {"id": 4, "title": "Louis Vuitton Lady", "description": "With a beautiful gold bow and well Louis Vuitton its just classy", "img": "/img/collars/collar4.jpg", "price": 1175
+    },
+    {"id": 5, "title": "Burberry", "description": "For a dapper dog out on the town.", "img": "/img/collars/collar5.jpg", "price": 375
+    }
+]

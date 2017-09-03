@@ -1,0 +1,14 @@
+[
+    { "id": 6, "title": "Gold Lightning", "description": "A beautifully honed piece of marble with a gold inlay will turn any dining experence extravagant", "img": "/img/bowls/bowl0.jpg", "price": 473
+    },
+    { "id": 7, "title": "Leather Band", "description": "When you need leather for everything this lovely ceramic bowl comes with a touch of hand crafted leather", "img": "/img/bowls/bowl1.jpg", "price": 247
+    },
+    { "id": 8, "title": "Crystal Clear", "description": "It will be crystal clear that your pup is eating in elegance with this bowl", "img": "/img/bowls/bowl2.jpg", "price": 757
+    },
+    {"id": 9, "title": "Woodn't You", "description": "Woodn't this be a fine bowl for when you and your pup are at your summer cottage enjoying the woods", "img": "/img/bowls/bowl3.jpg", "price": 243
+    },
+    {"id": 10, "title": "Marble", "description": "Hand carved from a single piece of Italian marble", "img":"/img/bowls/bowl4.jpg", "price": 982
+    },
+    {"id": 11, "title": "Woven Leather", "description": "Dark and handsome is how this bowl will be described with its hand woven leather base in dark night black. ", "img": "/img/bowls/bowl5.jpg", "price": 472
+    }
+]
